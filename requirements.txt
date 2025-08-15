@@ -1,0 +1,7 @@
+dash_core_components
+pandas
+dash
+dash_renderer
+dash_html_components
+#yfinance
+iexfinance
