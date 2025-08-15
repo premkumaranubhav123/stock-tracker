@@ -1,7 +1,4 @@
-dash_core_components
-pandas
-dash
-dash_renderer
-dash_html_components
-#yfinance
-iexfinance
+dash==2.18.1
+yfinance==0.2.37
+pandas==2.2.2
+plotly==5.23.0
