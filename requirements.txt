@@ -1,4 +1,0 @@
-dash==2.18.1
-yfinance==0.2.37
-pandas==2.1.0
-plotly==5.23.0
