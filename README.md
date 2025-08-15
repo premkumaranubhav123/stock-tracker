@@ -2,7 +2,7 @@
 
 A simple and elegant web app to track stock prices in real-time using **Python**, **Dash**, and **Yahoo Finance (yfinance)**.
 
-![Stock Tracker Screenshot](screenshot.png)
+![Stock Tracker Screenshot](stock-tracker.png)
 
 Enter any stock ticker (e.g., `TSLA`, `NVDA`, `AAPL`) and instantly view:
 - ✅ Interactive price chart
